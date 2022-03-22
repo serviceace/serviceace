@@ -5,6 +5,10 @@ Actualmente sigo capacitandome en diseño web y espero llegar a ser Full Stack D
 
 
 ### Donde encontrarme _________________________________
+- Linkedin
+- Twitter
+- Email
+- Instagram
 
 <!--
 **serviceace/serviceace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
