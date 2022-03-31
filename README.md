@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo Robles</h1>
-<h3 align="center">A FrontEnd developer in constatly learning.</h3>
+<h3 align="center">A FrontEnd developer in constatly learning.</h3> 
 
 - 💬 Ask me about **HTML, CSS, SASS, JavaScript**
 
