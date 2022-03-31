@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Robles</h1>
 <h3 align="center">A FrontEnd developer in constatly learning.</h3> 
 
-<img width="777" alt="banner-github" src="https://imgur.com/GmGocfi">
+<img width="777" alt="banner-github" src="https://i.imgur.com/GmGocfi.png">
 
 - 💬 Ask me about **HTML, CSS, SASS, JavaScript**
 
