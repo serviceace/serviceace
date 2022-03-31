@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gustavo Robles</h1>
+<h1 align="center">Hi 👋 I'm Gustavo Robles</h1>
 <h3 align="center">A FrontEnd developer in constatly learning.</h3> 
 
 <img width="777" alt="banner-github" src="https://i.imgur.com/GmGocfi.png">
@@ -9,7 +9,7 @@ At the moment, I am still training in web desing. I would like to become Full St
 
 - 📫 How to reach me **roblesgustavo86@gmail.com**
 
-- ⚡ Fun fact **I love videogames and his story in the world.**
+- ⚡ Fun fact: **I love videogames and his story in the world.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
