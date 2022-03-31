@@ -3,6 +3,8 @@
 
 <img width="777" alt="banner-github" src="https://i.imgur.com/GmGocfi.png">
 
+At the moment, I am still training in web desing. I would like to become Full Stack Developer and work as that in the future. My constant interest in technology, and curiosity for everything have been leading me to learn constantly about develop stuff. I hope you find  the projects I uploaded here interesting.
+
 - 💬 Ask me about **HTML, CSS, SASS, JavaScript**
 
 - 📫 How to reach me **roblesgustavo86@gmail.com**
